@@ -1,6 +1,6 @@
-# Demo project to demonstrate issue in JBoss Weld 2.3.4.Final 
+# Demo project for issue in JBoss Weld 2.3.4.Final
 
-JIRA link ([WELD-?][issue], to be filled after bug submit).
+JIRA link: [WELD-2161][issue]
 
 ## Correct work
 
@@ -50,4 +50,4 @@ org.jboss.weld.exceptions.DeploymentException: WELD-001408: Unsatisfied dependen
 
 MIT license, see [LICENSE](LICENSE)
 
-[issue]: https://issues.jboss.org/projects/WELD
+[issue]: https://issues.jboss.org/browse/WELD-2161
